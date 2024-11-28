@@ -8,3 +8,5 @@ Used Tools:
 1. SQL: For data exploration, cleaning, transformation, and analysis.
 2. Tableau: For creating interactive visualizations and dashboards.
    [Visit my public dashboard here](https://public.tableau.com/views/RottenTomatoesMusicalsDataVisualization/RottenTomatoesMusicalsDataVisualization?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+
+![image](https://github.com/user-attachments/assets/1d77b38a-7dde-4cb7-a17c-ec04ca0f1771)
